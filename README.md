@@ -1,4 +1,3 @@
 # djangotodo
 
-Pythonの学習でTodoアプリをdjangoで作ったものをGitにあげてみた。
-
+Pythonの学習でTodoアプリをdjangoで作ったみた
